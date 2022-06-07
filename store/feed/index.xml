@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Products &#8211; The Shoe Box</title>
+	<atom:link href="/store/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Ecommerce website for a brand</description>
+	<lastBuildDate>Mon, 30 May 2022 13:20:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/05/cropped-shoe-site-logo-32x32.png</url>
+	<title>Products &#8211; The Shoe Box</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>TSB Unisex boots</title>
+		<link>/store/men/tsb-unisex-boots/</link>
+					<comments>/store/men/tsb-unisex-boots/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 30 May 2022 12:40:33 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=3313</guid>
+
+					<description><![CDATA[<div class="info-card-component__product-actions__container">
+<div class="info-card-component__product-details">
+<div class="product-description">
+<div class="product-description__container">
+<div class="product-description__inner">
+<ul class="">
+ 	<li>Upper: brushed leather and nylon</li>
+ 	<li>Metal eyelets and laces</li>
+ 	<li>Removable nylon pouch</li>
+ 	<li>Enameled metal triangle logo</li>
+ 	<li>Light rubber lug tread sole</li>
+ 	<li>Sole height: 60 mm</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="info-accordions">
+<div class="info-accordions-wrapper">
+<ul class="info-accordions-wrapper__list">
+ 	<li id="composition" class="info-accordion">
+<h2 class="info-accordion__label">MATERIALS</h2>
+<div class="info-accordion__content">Fabric/Leather</div></li>
+</ul>
+</div>
+</div>]]></description>
+		
+					<wfw:commentRss>/store/men/tsb-unisex-boots/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TSB Chinese Female Heels</title>
+		<link>/store/accessories/laces/tsb-chinese-female-heels/</link>
+					<comments>/store/accessories/laces/tsb-chinese-female-heels/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 30 May 2022 12:09:54 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=3308</guid>
+
+					<description><![CDATA[<ul>
+ 	<li class="c4-z">Give your onlookers something to talk about when you flaunt your chic look in the Chinese Laundry® Rumor sandal!</li>
+ 	<li>Available in a variety of upper materials.</li>
+ 	<li>Please note: upper material is listed in the color name.</li>
+ 	<li>Ankle strap with adjustable buckle closure.</li>
+ 	<li>Open-toe silhouette.</li>
+</ul>]]></description>
+		
+					<wfw:commentRss>/store/accessories/laces/tsb-chinese-female-heels/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TSB Boot Brushed leather/ rubber sole</title>
+		<link>/store/men/tsb-boot-brushed-leather/</link>
+					<comments>/store/men/tsb-boot-brushed-leather/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 30 May 2022 11:51:24 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=3302</guid>
+
+					<description><![CDATA[<div class="info-card-component__product-actions__container">
+<div class="info-card-component__product-details">
+<div class="product-description">
+<div class="product-description__container">
+<div class="product-description__inner">
+
+Traditionally used in fine classic footwear, brushed leather has been one of the iconic materials of the brand since the '90s and is used herein a pair of Chelsea boots with a light rubber sole. New, contemporary elegance with sleek, clean lines defines Prada footwear for men.
+<ul class="">
+ 	<li>Product code: 2TE168_055_F0002</li>
+ 	<li>Light rubber sole with notched welt</li>
+ 	<li>Crepe-like half-sole</li>
+ 	<li>40 mm heel</li>
+ 	<li>Leather insole</li>
+ 	<li>0</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="info-accordions">
+<div class="info-accordions-wrapper">
+<ul class="info-accordions-wrapper__list">
+ 	<li id="composition" class="info-accordion">
+<h2 class="info-accordion__label">MATERIALS</h2>
+<div class="info-accordion__content">Fabric/Leather/rubber</div></li>
+</ul>
+</div>
+</div>]]></description>
+		
+					<wfw:commentRss>/store/men/tsb-boot-brushed-leather/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Theshoebox Black Shoes</title>
+		<link>/store/men/theshoebox-black-shoes/</link>
+					<comments>/store/men/theshoebox-black-shoes/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 21 Dec 2017 04:45:24 +0000</pubDate>
+				<guid isPermaLink="false">/index.php/product/dnk-black-shoes/</guid>
+
+					<description><![CDATA[Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed.]]></description>
+		
+					<wfw:commentRss>/store/men/theshoebox-black-shoes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Theshoebox Yellow Shoes</title>
+		<link>/store/men/theshoebox-yellow-shoes/</link>
+					<comments>/store/men/theshoebox-yellow-shoes/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 21 Dec 2017 04:37:29 +0000</pubDate>
+				<guid isPermaLink="false">/index.php/product/dnk-yellow-shoes/</guid>
+
+					<description><![CDATA[Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed.]]></description>
+		
+					<wfw:commentRss>/store/men/theshoebox-yellow-shoes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Theshoebox comfy Shoes</title>
+		<link>/store/men/theshoebox-comfy-shoes/</link>
+					<comments>/store/men/theshoebox-comfy-shoes/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 21 Dec 2017 04:37:26 +0000</pubDate>
+				<guid isPermaLink="false">/index.php/product/dnk-red-shoes/</guid>
+
+					<description><![CDATA[Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed.]]></description>
+		
+					<wfw:commentRss>/store/men/theshoebox-comfy-shoes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Theshoebox Blue Shoes</title>
+		<link>/store/men/theshoebox-blue-shoes/</link>
+					<comments>/store/men/theshoebox-blue-shoes/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 21 Dec 2017 04:37:21 +0000</pubDate>
+				<guid isPermaLink="false">/index.php/product/dnk-blue-shoes/</guid>
+
+					<description><![CDATA[Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed.]]></description>
+		
+					<wfw:commentRss>/store/men/theshoebox-blue-shoes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Theshoebox Green Shoes</title>
+		<link>/store/men/theshoebox-green-shoes/</link>
+					<comments>/store/men/theshoebox-green-shoes/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2017 15:02:20 +0000</pubDate>
+				<guid isPermaLink="false">/index.php/product/dnk-green-shoes/</guid>
+
+					<description><![CDATA[Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed.]]></description>
+		
+					<wfw:commentRss>/store/men/theshoebox-green-shoes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Black Hoodie</title>
+		<link>/store/men/black-hoodie/</link>
+					<comments>/store/men/black-hoodie/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2017 14:41:04 +0000</pubDate>
+				<guid isPermaLink="false">/index.php/product/black-hoodie/</guid>
+
+					<description><![CDATA[Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed.]]></description>
+		
+					<wfw:commentRss>/store/men/black-hoodie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Denim custom fitted shoes</title>
+		<link>/store/women/denim-shoes-1/</link>
+					<comments>/store/women/denim-shoes-1/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2017 10:30:57 +0000</pubDate>
+				<guid isPermaLink="false">/index.php/product/blue-denim-shorts/</guid>
+
+					<description><![CDATA[Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed .]]></description>
+		
+					<wfw:commentRss>/store/women/denim-shoes-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
